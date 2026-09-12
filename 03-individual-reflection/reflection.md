@@ -4,11 +4,11 @@
 
 ## Thông tin cá nhân
 
-- Họ và tên:
-- Mã học viên:
-- Nhóm:
+- Họ và tên: Vương Việt Hoàng
+- Mã học viên:2A202602528
+- Nhóm:A1-Nhom 1
 - Candidate problem nhóm chọn:
-
+Sinh viên mới tốt nghiệp mất nhiều thời gian tổng hợp vị trí việc làm từ nhiều nguồn, loại bỏ tin tuyển dụng trùng lặp, tìm thêm trên trang tuyển dụng chính thức của doanh nghiệp và đánh giá mức độ phù hợp trước khi tạo danh sách rút gọn để ứng tuyển.
 ---
 
 ## 1. Tôi đã tham gia vào phần nào?
@@ -17,22 +17,21 @@ Ghi việc cụ thể + kết quả cụ thể. Không ghi chung chung kiểu "t
 
 | Hoạt động | Tôi đã làm gì? (việc cụ thể) | Kết quả / ảnh hưởng tới nhóm |
 |---|---|---|
-| Scan cá nhân | | |
-| Pitch Problem Card | | |
-| Challenge bài của bạn khác | | |
-| Gom trùng / cluster | | |
-| Chọn candidate problem | | |
-| Validation / research | | |
-| Workflow nhóm | | |
-| Problem Statement | | |
-| Rule / Workflow / Agent | | |
-| Decision | | |
+| Scan cá nhân |Tôi scan 9 problem của bản thân và chọn 1 candidate problem của chính mình  | giúp cả nhóm cùng brainstorm |
+| Pitch Problem Card |tôi pitch về problem: triển khai workflow AI giúp tổng hợp, tóm tắt và phân loại tin nhắn giúp user không bỏ sót tin nhắn quan trọng | giúp nhóm có thêm định hướng để gom trùng |
+| Challenge bài của bạn khác | tôi phản biện bài của các thành viên trong nhóm về nhu cầu thực tế, tính khả thi và đánh giá effort/ impact| giúp nhóm có thêm góc nhìn và lựa chọn được candidate problem  |
+| Gom trùng / cluster |tôi cùng nhóm đưa nhận xét | giúp nhóm tìm được các partern về problem|
+| Chọn candidate problem |tôi vote cho giải pháp workflow giúp ứng viên tìm được việc phù hợp trên nhiều nền tảng tìm việc và dễ dàng quản lý danh sách application | giúp nhóm thống nhất candidate problem |
+| Validation / research |thực hiện research bằng cách phỏng vấn |giúp nhóm có bằng chứng thực tế rằng đây thực sự là 1 pain point |
+| Workflow nhóm |tôi góp ý kiến chỉ ra pain point trong workflow cũ và gợi ý giải pháp cho workflow mới | giúp nhóm thống nhất giải pháp |
+| Problem Statement |tôi đóng góp vào phần bottleneck, Hướng giải quyết, success metric | giúp nhóm có cái nhìn rõ hơn về vấn đề |
+| Rule / Workflow / Agent | phản biện tính hiệu quả (ROI), technical debt | giúp nhóm chọn được giải pháp phù hợp|
+| Decision |giải quyết cách risk và cùng nhóm đưa quyết định GO | GO với việc giải quyết đúng vấn đề và tối thiểu rủi ro |
 
 **Dấu tay rõ nhất của tôi trong artifact cuối (1-2 câu):**
 
 ```text
-
-```
+đánh giá pain point, ROI và đưa ra giải pháp technical phù hợp
 
 ---
 
@@ -64,9 +63,10 @@ Chọn 3-4 câu trong 6 câu dưới để viết thành đoạn 8-12 câu (khô
 
 **Reflection:**
 
-```text
-
-
+```
+Tôi học được cách để dễ tìm ra được pain point và kiểm chứng pain point
+Tôi có thay đổi ý kiến khi bị challegne vì có những boundry tôi chưa nghĩ tới
+Nếu làm lại tôi sẽ challenge nhóm mạnh hơn ở phần kiểm chứng pain point và technical debt
 
 ```
 
